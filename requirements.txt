@@ -1,0 +1,6 @@
+python-dotenv
+google-generativeai
+tqdm
+loguru
+ratelimit
+tenacity
